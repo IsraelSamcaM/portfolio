@@ -1,0 +1,282 @@
+{
+    "title": "Jose I. Samca Montaño| Portafolio",
+    "description": "Soy Jozs, con aspiracion a ser el mejor programador de la historia.",
+    "image": "/user.png",
+    "avatar": "/user.png",
+    "name": "Jose I. Samca Montaño",
+    "skill": "Programador, estudiante de Ingeniería de Sistemas.",
+    "location": "Bolivia",
+    "media": {
+        "email": "samca83@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/IsraelSamcaM",
+        "likedin": "https://linkedin.com/in/jose-samca-932093356"
+    },
+    "about":  "Soy un programador junior siempre en busca de aprender nuevas tecnologías. Me adapto rápidamente a nuevos entornos y disfruto de los desafíos del desarrollo de software.",
+    "technologies": [
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-visualstudio-plain",
+            "name": "Visual Studio Code"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+        },
+        {
+            "icon": "devicon-azuresqldatabase-plain",
+            "name": "SQL"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+        }
+    ],
+    
+    "experience": [
+        {
+            "icon": "locate",
+            "title": "Geospatial Industry",
+            "subtitle": "Técnico de campo.",
+            "description": "Participé en proyectos de información georeferenciado haciendo uso de RTK y Drones DJI.",
+            "date": "2019"
+        },
+        {
+            "icon": "terminal",
+            "title": "Gobierno Autónomo Municipal de Sacaba",
+            "subtitle": "Desarrrollador web junior.",
+            "description": "Participé en el desarrollo del sistema para la automatización del POA.",
+            "date": "2023"
+        },
+        {
+            "icon": "network",
+            "title": "Gobierno Autónomo Municipal de Cochabamba",
+            "subtitle": "Tecnico en mantenimiento de Redes",
+            "description": "Participé en mantenimiento de redes como fibra óptica y cableado estructurado.",
+            "date": "2024"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "bar-chart-4",
+            "title": "API para el sistema RESERBIT",
+            "subtitle": "Software para el curso de Taller de Ingeniería de Software",
+            "description": "Realice el diagrama de base de datos y backend del sistema web diseñado para facilitar la reserva de ambientes universitarios",
+            "technologies": [   
+                {
+                    "icon": "devicon-nodejs-plain",
+                    "name": "Node.js"
+                },
+                {
+                    "icon": "devicon-express-original",
+                    "name": "Express"
+                },
+                {
+                    "icon": "devicon-sequelize-plain",
+                    "name": "Sequelize (ORM para PostgreSQL)"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
+                }
+            ],
+            "image": "/api.png",
+            "github": "https://github.com/IsraelSamcaM/reserbit_be"
+        },
+        {
+            "icon": "network",
+            "title": "Sistema de automatizacion de POA",
+            "subtitle": "Software propiedad de GAMS",
+            "description": "Desarrollé el módulo de automatización del POA (Plan Operativo Anual), el cual facilita la gestión de cargos, escalas salariales, y permite la visualización del organigrama y el presupuesto del gobierno municipal.",
+            "technologies": [
+                {
+                    "icon": "devicon-nodejs-plain",
+                    "name": "Node.js"
+                },
+                {
+                    "icon": "devicon-express-original",
+                    "name": "Express"
+                },
+                {
+                    "icon": "devicon-mongoose-plain",
+                    "name": "Mongoose"
+                },
+                {
+                    "icon": "devicon-mongodb-plain",
+                    "name": "MongoDB"
+                },
+                {
+                    "icon": "devicon-dotenv-plain",
+                    "name": "dotenv"
+                },{
+                    "icon": "devicon-angularjs-plain",
+                    "name": "Angular"
+                },
+                {
+                    "icon": "devicon-angularmaterial-plain",
+                    "name": "Angular Material"
+                }
+            ],
+            "image": "/poa1.png",
+            "github": "https://github.com/IsraelSamcaM/sistemaOrganigramaPoaGams_fe",
+            "githubdos": "https://github.com/IsraelSamcaM/sistemaOrganigramaPoaGams_be"
+        },
+        {
+            "icon": "circle-dollar-sign",
+            "title": "Sistema de simulacion de inversiones",
+            "subtitle": "Software para el curso de Taller de Simulacion de Sistemas",
+            "description": "Realicé el desarrollo de un sistema para simular uno o más proyectos de inversión, permitiendo evaluar su rentabilidad y comportamiento en distintos escenarios.",
+            "technologies": [   
+                {
+                    "icon": "devicon-angularjs-plain",
+                    "name": "Angular"
+                },
+                {
+                    "icon": "devicon-angularmaterial-plain",
+                    "name": "Angular Material"
+                }
+            ],
+            "image": "/simulacion.png",
+            "url": "https://tsimulacionsistemas-hosting.web.app/home/admin/ayuda",
+            "github": "https://github.com/IsraelSamcaM/tallerSimulacionSistemas_fe"
+        },
+        {
+            "icon": "book-copy",
+            "title": "API para el sistema IPTU",
+            "subtitle": "Software de Información para Proyectos y Tesis UMSS",
+            "description": "Realice el diagrama de base de datos y backend del sistema web desarrollado para la visualización y gestión de temas de proyectos de grado o tesis en la Universidad Mayor de San Simón (UMSS).",
+            "technologies": [   
+                {
+                    "icon": "devicon-nodejs-plain",
+                    "name": "Node.js"
+                },
+                {
+                    "icon": "devicon-express-original",
+                    "name": "Express"
+                },
+                {
+                    "icon": "devicon-sequelize-plain",
+                    "name": "Sequelize (ORM para PostgreSQL)"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JWT"
+                },
+                {
+                    "icon": "devicon-swagger-plain",
+                    "name": "Swagger"
+                }
+            ],
+            "image": "/api.png",
+            "github": "https://github.com/IsraelSamcaM/iptu_be"
+        }
+        
+    ],
+    "technologieslearning": [
+        {
+            "icon": "devicon-angularjs-plain",
+            "name": "Angular"
+        },
+        {
+            "icon": "devicon-react-original",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-nodejs-plain",
+            "name": "Node.js"
+        },
+        {
+            "icon": "devicon-express-original",
+            "name": "Express"
+        },
+        {
+            "icon": "devicon-prisma-plain",
+            "name": "Prisma"
+        },
+        {
+            "icon": "devicon-sequelize-plain",
+            "name": "Sequelize"
+        },
+        {
+            "icon": "devicon-jwt-plain",
+            "name": "JWT"
+        },
+        {
+            "icon": "devicon-mongodb-plain",
+            "name": "MongoDB"
+        },
+        {
+            "icon": "devicon-swagger-plain",
+            "name": "Swagger"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Ingenieria de sistemas",
+            "subtitle": "Universidad Mayor de San Simón",
+            "description": "Estudiante de la carrera de Ingeniería de Sistemas.",
+            "date": "2020-Actualidad",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Curso de Java",
+            "subtitle": "Jatun SRL.",
+            "description": "Curso de programación en Java, incluyendo conceptos avanzados y desarrollo de aplicaciones.",
+            "date": "2021",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Curso de Encaminamiento de Información de Redes",
+            "subtitle": "Universidad Mayor de San Simón",
+            "description": "Aprendí sobre ruteos, configuración y otros aspectos relacionados con MikroTik, Routers Cisco e Issabel.",
+            "date": "2024",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Curso de React.js",
+            "subtitle": "Platzi",
+            "description": "Aprendí React.js desde lo básico hasta lo avanzado: JSX, Hooks, Context API, manejo de estados, optimización y novedades.",
+            "date": "2025",
+            "certificate": ""
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+         {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}   
